@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full-Stack+Engineer;Building+AI-Powered+Applications;React+%7C+FastAPI+%7C+LLMs+%7C+NLP" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Variable18&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
