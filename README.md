@@ -64,16 +64,6 @@ ML-powered language learning platform with adaptive quizzes, gamification, and p
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Variable18&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
