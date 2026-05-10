@@ -25,3 +25,11 @@ AI-driven repository analysis tool that automatically generates SDLC documentati
 
 ### MuLangGo
 ML-powered language learning platform with quiz difficulty classification and adaptive progression.
+
+---
+
+## 📊 GitHub Stats
+
+![Vishruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Variable18&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Variable18&layout=compact&theme=tokyonight)
